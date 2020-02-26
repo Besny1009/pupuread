@@ -1,0 +1,9 @@
+<navAndLoopImage></navAndLoopImage>
+<currentLabels currentLabels="{{currentLabels}}"></currentLabels>
+<girlsAndBoys itemName1="完本免费" itemName2="限时免费"></girlsAndBoys>
+<recommend recommendName="主编推荐：科幻畅享"></recommend>
+<typeView typeName="本周新书力荐"></typeView>
+<typeView typeName="大神专栏：辰东"></typeView>
+<cutoverMore typeName="都市爽文" more="更多" arrow=">"></cutoverMore>
+<typeView typeName="玄幻异世文"></typeView>
+<labelView labels="{{labels}}"></labelView>

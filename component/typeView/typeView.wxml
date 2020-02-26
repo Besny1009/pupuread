@@ -1,0 +1,60 @@
+<view class="weekHot">
+  <view class="commStyle">
+    <view class="commTitle">{{typeName}}</view>
+    <view class="commMore">更多<text>></text></view>
+  </view>
+  <view class="weekCon">
+    <view class="weekConImage">
+      <image  src="/images/content_01.png"></image>
+    </view>
+    <view class="weekConDes">
+      <view class="weekTitle">
+        <view class="titleAndLabel">
+          <view class="andTitle">原来对家BOSS暗恋我</view>
+          <view class="andLabel">豪门世家</view>
+        </view>
+        <view class="scoreAndStar">
+          <view class="andScore">9.<text>5</text></view>
+          <view class="andStar"></view>
+        </view>
+      </view>
+      <view class="weekDes">穿成作天作地的作妖女配，苏玥唯一的任务就是让江大少讨厌她！可是，为什么...</view>
+    </view>
+  </view>
+  <view class="weekCon">
+    <view class="weekConImage">
+      <image  src="/images/content_01.png"></image>
+    </view>
+    <view class="weekConDes">
+      <view class="weekTitle">
+        <view class="titleAndLabel">
+          <view class="andTitle">原来对家BOSS暗恋我</view>
+          <view class="andLabel">豪门世家</view>
+        </view>
+        <view class="scoreAndStar">
+          <view class="andScore">9.<text>5</text></view>
+          <view class="andStar"></view>
+        </view>
+      </view>
+      <view class="weekDes">穿成作天作地的作妖女配，苏玥唯一的任务就是让江大少讨厌她！可是，为什么...</view>
+    </view>
+  </view>
+  <view class="weekCon">
+    <view class="weekConImage">
+      <image  src="/images/content_01.png"></image>
+    </view>
+    <view class="weekConDes">
+      <view class="weekTitle">
+        <view class="titleAndLabel">
+          <view class="andTitle">原来对家BOSS暗恋我</view>
+          <view class="andLabel">豪门世家</view>
+        </view>
+        <view class="scoreAndStar">
+          <view class="andScore">9.<text>5</text></view>
+          <view class="andStar"></view>
+        </view>
+      </view>
+      <view class="weekDes">穿成作天作地的作妖女配，苏玥唯一的任务就是让江大少讨厌她！可是，为什么...</view>
+    </view>
+  </view>
+</view>

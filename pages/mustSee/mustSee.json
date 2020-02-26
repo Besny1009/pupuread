@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "navAndLoopImage":"/component/navAndLoopImage/navAndLoopImage",
+    "cutoverMore":"/component/cutoverMore/cutoverMore",
+    "typeView":"/component/typeView/typeView"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/bookshelf/bookshelf",
+    "pages/index/index",
+    "pages/boysClass/boysClass",
+    "pages/pubClass/pubClass",
+    "pages/girlsClass/girlsClass",
+    "pages/pubChannel/pubChannel",
+    "pages/boysChannel/boysChannel",
+    "pages/girlsChannel/girlsChannel",
+    "pages/mustSee/mustSee",
+    "pages/logs/logs"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "PUPU阅读",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar":{
+    "selectedColor":"#f4ea2a",
+    "list":[
+      {
+        "pagePath":"pages/index/index",
+        "text":"书城",
+        "iconPath":"images/book.png",
+        "selectedIconPath":"images/book-h.png"
+
+      },
+      {
+        "pagePath": "pages/girlsClass/girlsClass",
+        "text": "分类",
+        "iconPath": "images/booktype.png",
+        "selectedIconPath": "images/booktype-h.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "书架",
+        "iconPath": "images/bookshelf.png",
+        "selectedIconPath": "images/bookshelf-h.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "我的",
+        "iconPath": "images/myself.png",
+        "selectedIconPath": "images/myself-h.png"
+      }
+      
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

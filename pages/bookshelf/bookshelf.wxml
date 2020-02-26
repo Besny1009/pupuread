@@ -1,0 +1,43 @@
+<view class="body">
+  <view class="read">
+    <view class="readTime">
+      <view class="readInfo">
+        <view class="timeAndExchange">
+          <text class="timeStyle">1018</text>
+          <navigator class="exchange">兑换<text class="gtStyle">></text></navigator>
+        </view>
+        <view class="weekTime">本周阅读时长/分钟</view>
+      </view>
+      <navigator class="signInStatus">今日已签</navigator>
+      <navigator class="footPrint">足迹</navigator>
+    </view>
+  </view>
+  
+  <view class="showBook">
+    <mp-slideview buttons="{{slideButtons}}" bindbuttontap="slideButtonTap" >
+      <view class="everyBookInfo">
+        <image src="/images/content_01.png"></image>
+        <view class="bookInfo">
+          <view class="bookName">如果能爱你少一点</view>
+          <view class="unread">还有107章未读</view>
+          <view class="newParts">更新至 第162章 都是你都怪你 (第二更，...</view>
+        </view>
+      </view>       
+    </mp-slideview>
+    <mp-slideview buttons="{{slideButtons}}" bindbuttontap="slideButtonTap" >
+      <view class="everyBookInfo">
+        <image src="/images/content_01.png"></image>
+        <view class="bookInfo">
+          <view class="bookName">如果能爱你少一点</view>
+          <view class="unread">还有107章未读</view>
+          <view class="newParts">更新至 第162章 都是你都怪你 (第二更，...</view>
+        </view>
+      </view>       
+    </mp-slideview>
+    
+  </view>
+  <view class="bookNumber">
+    共17本，其中有0本私密阅读
+  </view>
+   
+</view>

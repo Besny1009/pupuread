@@ -1,0 +1,8 @@
+<navAndLoopImage></navAndLoopImage>
+<currentLabels currentLabels="{{currentLabels}}"></currentLabels>
+<girlsAndBoys itemName1="温暖言情" itemName2="浪漫青春"></girlsAndBoys>
+<typeView typeName="新作速递"></typeView>
+<recommend recommendName="热门畅销"></recommend>
+<cutoverMore typeName="青春校园" more="更多" arrow=">"></cutoverMore>
+<typeView typeName="古代言情"></typeView>
+<labelView labels="{{labels}}"></labelView>

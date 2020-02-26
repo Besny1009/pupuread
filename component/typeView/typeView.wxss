@@ -1,0 +1,72 @@
+.weekHot{
+  padding: 30rpx;
+}
+
+.commStyle{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.commTitle{
+  color: #000;
+  font-size: 32rpx;
+  font-weight: 900;
+}
+
+.commMore{
+  color: #050505;
+  font-size: 28rpx;
+}
+.commMore text{
+  color: #707070;
+}
+.weekCon{
+  padding-top: 25rpx;
+  display: flex;
+  justify-content: space-between;
+  /* box-sizing: border-box; */
+}
+.weekConImage image{
+  width: 155rpx;
+  height: 215rpx;
+  display: block;
+  border-radius: 10rpx;
+}
+.weekConDes{
+  padding-left: 23rpx;
+}
+.weekTitle{
+  display: flex;
+  justify-content: space-between;
+}
+
+.andTitle{
+  color: #080808;
+  font-size: 32rpx;
+}
+.andLabel{
+  width: 40%;
+  color: #8e8e8b;
+  background:#f3f3f3;
+  text-align: center;
+  border-radius: 5rpx;
+  margin-top:10rpx; 
+  /* padding: 10rpx 0; */
+  font-size: 30rpx;
+}
+
+.andScore{
+  color: #010101;
+  font-size: 36rpx;
+}
+.andScore text{
+  font-weight: normal;
+  font-size: 30rpx;
+}
+
+.weekDes{
+  padding-top: 20rpx;
+  color:#9c9c9c;
+  font-size: 28rpx;
+}

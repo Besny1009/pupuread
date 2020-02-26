@@ -1,0 +1,47 @@
+<view class="bookNav">
+  <navigator>
+    <view class="navItem navItem-active">推荐</view>
+  </navigator>
+  <navigator>
+    <view class="navItem">必看</view>
+  </navigator>
+  <navigator>
+    <view class="navItem">女生频道</view>
+  </navigator>
+  <navigator>
+    <view class="navItem">男生频道</view>
+  </navigator>
+  <navigator>
+    <view class="navItem">出版频道</view>
+  </navigator>
+  
+</view>
+<view class="imagesLoop">
+  <swiper indicator-dots indicator-color="rgba(0, 0, 0, .5)" indicator-active-color="#fff" autoplay circular="">
+    <navigator>
+      <swiper-item>
+        <image src="/images/banner_01.png"></image>
+      </swiper-item>
+    </navigator>
+    <navigator>
+      <swiper-item>
+        <image src="/images/banner_02.png"></image>
+      </swiper-item>
+    </navigator>
+    <navigator>
+      <swiper-item>
+        <image src="/images/banner_01.png"></image>
+      </swiper-item>
+    </navigator>
+    <navigator>
+      <swiper-item>
+        <image src="/images/banner_02.png"></image>
+      </swiper-item>
+    </navigator>
+    <navigator>
+      <swiper-item>
+        <image src="/images/banner_01.png"></image>
+      </swiper-item>
+    </navigator>
+  </swiper>
+</view>

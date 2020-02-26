@@ -1,0 +1,104 @@
+<navAndLoopImage></navAndLoopImage>
+<cutoverMore typeName="经典必看"></cutoverMore>
+<typeView typeName="现言类霸榜精品"></typeView>
+<typeView typeName="古言类霸榜精品"></typeView>
+<cutoverMore typeName="影视热门"></cutoverMore>
+<typeView typeName="幻情类霸榜精品"></typeView>
+<typeView typeName="快穿类霸榜精品"></typeView>
+<typeView typeName="青春类霸榜精品"></typeView>
+<typeView typeName="古言类霸榜精品"></typeView>
+
+<view class="mustSeeUnique">
+  <swiper display-multiple-items="1.4">
+    <swiper-item>
+      <view class="mustSee">
+        <view class="mustSeeTxt">
+          <view class="mustSeeTitle">仙侠榜</view>
+          <view class="mustSeeMore">></view>
+        </view>
+        <view class="mustSeeImages">
+          <image src="/images/content_01.png"></image>
+          <view class="mustSeeCon">
+            <view class="mustSeeConTitle">鼎炉重生：姑娘我是合欢派</view>
+            <view class="mustSeeConAuthor">未曦初晓</view>
+          </view>
+        </view>
+        <view class="mustSeeImages">
+          <image src="/images/content_01.png"></image>
+          <view class="mustSeeCon">
+            <view class="mustSeeConTitle">鼎炉重生：姑娘我是合欢派</view>
+            <view class="mustSeeConAuthor">未曦初晓</view>
+          </view>
+        </view>
+        <view class="mustSeeImages">
+          <image src="/images/content_01.png"></image>
+          <view class="mustSeeCon">
+            <view class="mustSeeConTitle">鼎炉重生：姑娘我是合欢派</view>
+            <view class="mustSeeConAuthor">未曦初晓</view>
+          </view>
+        </view>
+      </view>
+        
+    </swiper-item>
+    <swiper-item>
+      <view class="mustSee">
+        <view class="mustSeeTxt">
+          <view class="mustSeeTitle">游戏榜</view>
+          <view class="mustSeeMore">></view>
+        </view>
+        <view class="mustSeeImages">
+          <image src="/images/content_01.png"></image>
+          <view class="mustSeeCon">
+            <view class="mustSeeConTitle">鼎炉重生：姑娘我是合欢派</view>
+            <view class="mustSeeConAuthor">未曦初晓</view>
+          </view>
+        </view>
+        <view class="mustSeeImages">
+          <image src="/images/content_01.png"></image>
+          <view class="mustSeeCon">
+            <view class="mustSeeConTitle">鼎炉重生：姑娘我是合欢派</view>
+            <view class="mustSeeConAuthor">未曦初晓</view>
+          </view>
+        </view>
+        <view class="mustSeeImages">
+          <image src="/images/content_01.png"></image>
+          <view class="mustSeeCon">
+            <view class="mustSeeConTitle">鼎炉重生：姑娘我是合欢派</view>
+            <view class="mustSeeConAuthor">未曦初晓</view>
+          </view>
+        </view>
+      </view>    
+    </swiper-item>
+    <swiper-item>
+      <view class="mustSee">
+        <view class="mustSeeTxt">
+          <view class="mustSeeTitle">轻小说</view>
+          <view class="mustSeeMore">></view>
+        </view>
+        <view class="mustSeeImages">
+          <image src="/images/content_01.png"></image>
+          <view class="mustSeeCon">
+            <view class="mustSeeConTitle">鼎炉重生：姑娘我是合欢派</view>
+            <view class="mustSeeConAuthor">未曦初晓</view>
+          </view>
+        </view>
+        <view class="mustSeeImages">
+          <image src="/images/content_01.png"></image>
+          <view class="mustSeeCon">
+            <view class="mustSeeConTitle">鼎炉重生：姑娘我是合欢派</view>
+            <view class="mustSeeConAuthor">未曦初晓</view>
+          </view>
+        </view>
+        <view class="mustSeeImages">
+          <image src="/images/content_01.png"></image>
+          <view class="mustSeeCon">
+            <view class="mustSeeConTitle">鼎炉重生：姑娘我是合欢派</view>
+            <view class="mustSeeConAuthor">未曦初晓</view>
+          </view>
+        </view>
+      </view>
+        
+    </swiper-item>
+  </swiper>
+
+</view>

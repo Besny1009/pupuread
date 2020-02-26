@@ -1,0 +1,35 @@
+  `<view class="dayOfBook">
+  <block wx:if="{{typeName || cutover || more || arrow}}">
+    <view class="dayHeader">
+      <view class="headerTxt" wx:if="{{typeName}}">{{typeName}}</view>
+      <view class="headerElse">
+        <view class="cutover" wx:if="{{cutover}}">{{cutover}}</view>
+        <view class="colu" wx:if="{{col}}">{{col}}</view>
+        <view class="more" wx:if="{{more}}">{{more}}</view>
+        <view class="gt" wx:if="{{arrow}}">{{arrow}}</view>
+      </view>   
+    </view>
+  </block>
+  <view class="dayCon">
+    <view class="content">
+      <view class="conImage"><image src="/images/content_01.png"></image></view>
+      <view class="conTitle">重生八零之陆少宠妻...</view>
+      <view class="conLabel">时空穿梭</view>
+    </view>
+    <view class="content">
+      <view class="conImage"><image src="/images/content_01.png"></image></view>
+      <view class="conTitle">重生八零之陆少宠妻...</view>
+      <view class="conLabel">时空穿梭</view>
+    </view>
+    <view class="content">
+      <view class="conImage"><image src="/images/content_01.png"></image></view>
+      <view class="conTitle">重生八零之陆少宠妻...</view>
+      <view class="conLabel">时空穿梭</view>
+    </view>
+    <view class="content">
+      <view class="conImage"><image src="/images/content_01.png"></image></view>
+      <view class="conTitle">重生八零之陆少宠妻...</view>
+      <view class="conLabel">时空穿梭</view>
+    </view>
+  </view>
+</view>

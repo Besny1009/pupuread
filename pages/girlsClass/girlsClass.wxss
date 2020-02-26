@@ -1,0 +1,112 @@
+.AllContent{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  position: relative;
+}
+.classLeft{
+  text-align: center;
+  position: absolute;
+  top: 200rpx;
+  width: 20%;
+}
+
+.classLeft scroll-view{
+  padding: 10rpx;
+}
+
+.leftTxt{
+  padding: 50rpx 30rpx;
+  color: #8a8a8a;
+  font-weight: 900;
+  font-size: 32rpx;
+}
+
+.active{
+  color: #00070d;
+  position: relative;
+}
+
+.active::after{
+  width: 45%;
+  height: 10rpx;
+  content: "";
+  background: #ffcb40;
+  position: absolute;
+  top: 97rpx;
+  left: 42rpx;
+}
+.classRight{
+  width: 80%;
+  border-top: 2rpx solid #eee;
+  border-left: 2rpx solid #eee;
+  margin-left: 170rpx;
+}
+.rightTitle{
+  color: #070707;
+  font-size: 32rpx;
+  padding: 30rpx;
+  font-weight: 900;
+}
+
+.rightHot{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.hotCon{
+  width: 45%;
+  display: flex;
+  margin-left: 29rpx;
+  margin-bottom: 30rpx;
+}
+
+.hotCon image{
+  width: 121rpx;
+  height: 170rpx;
+  display: block;
+}
+
+.hotTxt{
+  padding: 50rpx 15rpx;
+}
+
+.hotName{
+  color: #030303;
+  font-size: 28rpx;
+}
+
+.hotNumber{
+  color: #959595;
+  font-size: 22rpx;
+}
+
+.labelTitle{
+  color: #040404;
+  font-size: 32rpx;
+  font-weight: 900;
+  padding: 0 30rpx;
+}
+
+.allLabels{
+  padding: 30rpx;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.allLabels view{
+  background: #f4f1f2;
+  padding: 10rpx 20rpx;
+  border-radius: 25rpx;
+  margin-bottom: 25rpx;
+  text-align: center;
+  margin-right: 29rpx;
+  font-size: 30rpx;
+  
+}
+
+
+
+
+

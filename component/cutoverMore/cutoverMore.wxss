@@ -1,0 +1,61 @@
+.dayOfBook{
+  padding: 30rpx;
+}
+.dayHeader{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+.headerTxt{
+  font-size: 32rpx;
+  color: #000;
+  font-weight: 900;
+}
+
+.headerElse{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  font-size: 24rpx;
+  color: #000;
+  align-items: center;
+}
+.colu{
+ color: #999;
+ padding: 0 20rpx;
+ font-weight: 900;
+}
+.gt{
+  padding-left: 15rpx;
+  color: #777;
+  font-weight: 900;
+}
+
+.dayCon{
+  padding-top: 20rpx;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+}
+.conImage image{
+  width: 155rpx;
+  height: 215rpx;
+  display: block;
+}
+.conTitle{
+  padding-top: 10rpx;
+  padding-bottom: 20rpx;
+  font-size: 30rpx;
+  color: #000;
+  line-height: 1.2rem;
+}
+
+.conLabel{
+  padding: 10rpx;
+  width: 80%;
+  color: #92928f;
+  background: #f4f2f0;
+  text-align: center;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+}

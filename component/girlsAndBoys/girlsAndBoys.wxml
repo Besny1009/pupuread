@@ -1,0 +1,67 @@
+<view class="limitFree">
+  <view class="dayHeader">
+    <view class="headerTxt">限时免费</view>
+    <view class="headerMore">更多<text>></text></view>  
+  </view>
+  <swiper class="limitHeight" display-multiple-items="1.2">
+   
+    <swiper-item wx:if="{{itemName1}}">
+      <view class="freeCon">
+        <view class="freeType">
+          <view class="freeTypeCon">{{itemName1}}</view>
+          <view class="freeTypeStatus">进行中</view>
+        </view>
+        <view class="freeImage">
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+        </view>
+      </view>
+    </swiper-item>
+    <swiper-item wx:if="{{itemName2}}">
+      <view class="freeCon">
+        <view class="freeType">
+          <view class="freeTypeCon">{{itemName2}}</view>
+          <view class="freeTypeStatus">进行中</view>
+        </view>
+        <view class="freeImage">
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+        </view>
+      </view>
+    </swiper-item>
+    
+
+  </swiper>
+</view>

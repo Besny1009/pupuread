@@ -1,0 +1,3 @@
+<view class="labels">
+  <view wx:for="{{currentLabels}}" wx:key="*this">{{item}}</view>
+</view>

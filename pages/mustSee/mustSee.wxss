@@ -1,0 +1,53 @@
+.mustSeeUnique{
+  padding: 30rpx;
+}
+.mustSeeUnique swiper{
+  height: 835rpx;
+}
+.mustSee{
+  background: #f6f1ee;
+  margin-right: 30rpx; 
+  border-radius: 10rpx;
+}
+.mustSeeTxt{
+  display: flex;
+  justify-content: space-between;
+  padding: 20rpx;
+}
+.mustSeeCon{
+  padding-left: 20rpx;
+}
+.mustSeeTitle{
+  color: #0d0807;
+  font-size: 34rpx;
+  font-weight: 900;
+}
+
+.mustSeeMore{
+  color: #9a9594;
+  font-size: 30rpx;
+}
+.mustSeeImages{
+  display: flex;
+  justify-content: space-between;
+  padding: 10rpx 20rpx;
+}
+.mustSeeImages:last-child{
+  padding-bottom: 30rpx;
+}
+.mustSeeImages image{
+  width: 149rpx;
+  height: 180rpx;
+  display: block;
+}
+.mustSeeConTitle{
+  color: #040000;
+  line-height: 1.2rem;
+  padding-top: 20rpx;
+  font-size: 28rpx;
+}
+.mustSeeConAuthor{
+  color: #8f8a89;
+  padding-top:15rpx;
+  font-size: 24rpx;
+}

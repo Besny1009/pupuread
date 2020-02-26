@@ -1,0 +1,166 @@
+<navAndLoopImage></navAndLoopImage>
+
+<view class="bookType">
+  <scroll-view class="scrollType" scroll-x>
+    <view class="showType">
+      <navigator>
+        <image src="/images/show_01.png"></image>
+        <view class="typeTxt">时长</view>
+      </navigator>
+    </view>
+    <view class="showType">
+      <navigator>
+        <image src="/images/show_01.png"></image>
+        <view class="typeTxt">签到</view>
+      </navigator>
+    </view>
+    <view class="showType">
+      <navigator>
+        <image src="/images/show_01.png"></image>
+        <view class="typeTxt">排行</view>
+      </navigator>      
+    </view>
+    <view class="showType">
+      <navigator>
+        <image src="/images/show_01.png"></image>
+        <view class="typeTxt">活动</view>
+      </navigator>     
+    </view>
+    <view class="showType">
+      <navigator>
+        <image src="/images/show_01.png"></image>
+        <view class="typeTxt">福利</view>
+      </navigator>      
+    </view>
+    <view class="showType">
+      <navigator>
+        <image src="/images/show_01.png"></image>
+        <view class="typeTxt">书单</view>
+      </navigator>
+    </view>
+    <view class="showType">
+      <navigator>
+        <image src="/images/show_01.png"></image>
+        <view class="typeTxt">分类</view>
+      </navigator>     
+    </view>
+    <view class="showType">
+      <navigator>
+        <image src="/images/show_01.png"></image>
+        <view class="typeTxt">动漫</view>
+      </navigator>
+    </view>
+    <view class="showType">
+      <navigator>
+        <image src="/images/show_01.png"></image>
+        <view class="typeTxt">游戏</view>
+      </navigator>
+    </view>
+  </scroll-view>
+</view>
+
+<cutoverMore typeName="今日必读"></cutoverMore>
+
+<view class="limitFree">
+  <view class="dayHeader">
+    <view class="headerTxt">限时免费</view>  
+  </view>
+  <swiper class="limitHeight" display-multiple-items="1.2">
+   
+    <swiper-item>
+      <view class="freeCon">
+        <view class="freeType">
+          <view class="freeTypeCon">男生免费</view>
+          <view class="freeTypeStatus">进行中</view>
+        </view>
+        <view class="freeImage">
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+        </view>
+      </view>
+    </swiper-item>
+    <swiper-item>
+      <view class="freeCon">
+        <view class="freeType">
+          <view class="freeTypeCon">女生免费</view>
+          <view class="freeTypeStatus">进行中</view>
+        </view>
+        <view class="freeImage">
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+        </view>
+      </view>
+    </swiper-item>
+    <swiper-item>
+      <view class="freeCon">
+        <view class="freeType">
+          <view class="freeTypeCon">出版免费</view>
+          <view class="freeTypeStatus">进行中</view>
+        </view>
+        <view class="freeImage">
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+          <view class="freeImageCon">
+            <image src="/images/content_01.png"></image>
+            <view class="freeTitle">斗罗之最...</view>
+            <view class="freePrice">免费</view>
+            <view class="freeMoney">2790币</view>
+          </view>
+        </view>
+      </view>
+    </swiper-item>
+    
+
+  </swiper>
+</view>
+
+<typeView typeName="本周畅销精选"></typeView>
+
+<typeView typeName="今日蹿升新书TOP3"></typeView>
+
+<typeView typeName="完结精选"></typeView>
+<typeView typeName="为你推荐"></typeView>
+<typeView typeName="喜欢\"现言\"的书友还喜欢"></typeView>
+<typeView typeName="根据你的阅读基因\"幻情\"为你推荐:"></typeView>

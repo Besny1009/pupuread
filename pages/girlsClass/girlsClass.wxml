@@ -1,0 +1,27 @@
+<view class="AllContent">
+  <view class="classLeft">
+    <scroll-view scroll-y>
+      <block wx:for="{{lists}}" wx:key="*this">
+        <view bindtap="btnClick" class="leftTxt {{index == idx? 'active':''}}" data-idx="{{index}}">{{item}}</view>
+      </block>
+    </scroll-view>
+  </view>
+  
+  <view class="classRight">
+    <view class="rightTitle">热门分类</view>
+    <view class="rightHot">
+      <view class="hotCon" wx:for="{{allClass}}" wx:key="*this">
+        <image src="{{item.pic}}"></image>
+        <view class="hotTxt">
+          <view class="hotName">{{item.title}}</view>
+          <view class="hotNumber">{{item.number}}本</view>
+        </view>
+      </view>
+    </view>
+
+    <view class="labelTitle">热门标签</view>
+    <view class="allLabels" >
+      <view wx:for="{{hotLabels}}" wx:key="*this">{{item}}</view>
+    </view>
+  </view>
+</view>

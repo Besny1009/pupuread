@@ -1,0 +1,9 @@
+<navAndLoopImage></navAndLoopImage>
+<currentLabels currentLabels="{{currentLabels}}"></currentLabels>
+<girlsAndBoys itemName1="完本免费" itemName2="限时免费"></girlsAndBoys>
+<recommend recommendName="主编推荐：超甜姐弟恋"></recommend>
+<typeView typeName="本周新书力荐"></typeView>
+<typeView typeName="本周最新完结"></typeView>
+<cutoverMore typeName="现在言情" more="更多" arrow=">"></cutoverMore>
+<typeView typeName="古代言情"></typeView>
+<labelView labels="{{labels}}"></labelView>

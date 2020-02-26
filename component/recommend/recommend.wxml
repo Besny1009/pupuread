@@ -1,0 +1,38 @@
+<view class="toBookshelf">
+  <view class="bookshelfTitle">{{recommendName}}</view>
+    <view class="bookshelfCon">
+      <view class="bookshelfConent">
+        <image src="/images/content_01.png"></image>
+        <view class="bookshelfTxt">
+          <view class="bsTitle">我有把反派养崩了</view>
+          <view class="bsAuthor">筠倾</view>
+          <view class="bsLabels">苏/系统流/一见钟情</view>
+        </view>
+        <view class="toBs">加书架</view>
+      </view>
+      <view class="bookshelfDes">别人都是小奶狗养成小棉袄，为啥我就要把冷血反派养成正义人士？？系统，臣妾做不到呀</view>
+      
+    </view>
+    <view class="dayCon">
+      <view class="content">
+        <view class="conImage"><image src="/images/content_01.png"></image></view>
+        <view class="conTitle">重生八零之陆少宠妻...</view>
+        <view class="conLabel">时空穿梭</view>
+      </view>
+      <view class="content">
+        <view class="conImage"><image src="/images/content_01.png"></image></view>
+        <view class="conTitle">重生八零之陆少宠妻...</view>
+        <view class="conLabel">时空穿梭</view>
+      </view>
+      <view class="content">
+        <view class="conImage"><image src="/images/content_01.png"></image></view>
+        <view class="conTitle">重生八零之陆少宠妻...</view>
+        <view class="conLabel">时空穿梭</view>
+      </view>
+      <view class="content">
+        <view class="conImage"><image src="/images/content_01.png"></image></view>
+        <view class="conTitle">重生八零之陆少宠妻...</view>
+        <view class="conLabel">时空穿梭</view>
+      </view>
+  </view>
+</view>

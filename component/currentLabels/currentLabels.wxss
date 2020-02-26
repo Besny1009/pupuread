@@ -1,0 +1,14 @@
+.labels{
+  padding: 30rpx;
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
+
+.labels view{
+  background: #f6f1ee;
+  border-radius: 10rpx;
+  padding: 10rpx 20rpx;
+  color: #040000;
+  font-size: 28rpx;
+}

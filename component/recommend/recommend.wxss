@@ -1,0 +1,97 @@
+.toBookshelf{
+  padding: 30rpx;
+}
+
+.bookshelfConent{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20rpx;
+}
+.bookshelfTxt{
+  vertical-align: middle;
+}
+.bsTitle{
+  color: #000;
+  padding-top: 30rpx;
+}
+.bsAuthor{
+  color: #969696;
+  padding: 10rpx 0;
+}
+.bsLabels{
+  color: #858585;
+  background: #f4f2f0;
+  padding: 10rpx;
+  border-radius: 10rpx;
+}
+.toBs{
+  color: #190c00;
+  background: #fcce1b;
+  height: 40rpx;
+  padding: 15rpx;
+  border-radius: 10rpx;
+  margin-top: 70rpx;
+  font-weight: 900;
+  font-size: 30rpx;
+}
+.bookshelfTitle{
+  color: #050505;
+  font-size: 32rpx;
+  font-weight: 900;
+}
+.bookshelfConent image{
+  width: 155rpx;
+  height: 215rpx;
+  display: block;
+}
+.bookshelfDes{
+  background: #f2f2f2;
+  border-radius: 10rpx;
+  color: #0a0806;
+  margin-top: 20rpx;
+  padding: 15rpx 40rpx;
+  text-align: left;
+  font-size: 28rpx;
+  line-height: 1.5em;
+  position: relative;
+  text-indent: 45rpx;
+}
+.bookshelfDes::before{
+  width: 70rpx;
+  height: 70rpx;
+  content: "“";
+  position: absolute;
+  color:#e0dedc;
+  top: 35rpx;
+  left: -40rpx;
+  font-size: 80rpx;
+}
+
+.dayCon{
+  padding-top: 40rpx;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: nowrap;
+}
+.conImage image{
+  width: 155rpx;
+  height: 215rpx;
+  display: block;
+}
+.conTitle{
+  padding-top: 10rpx;
+  padding-bottom: 20rpx;
+  font-size: 30rpx;
+  color: #000;
+  line-height: 1.2rem;
+}
+
+.conLabel{
+  padding: 10rpx;
+  width: 80%;
+  color: #92928f;
+  background: #f4f2f0;
+  text-align: center;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+}

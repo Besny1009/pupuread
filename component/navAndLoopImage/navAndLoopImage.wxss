@@ -1,0 +1,27 @@
+.bookNav{
+  padding: 40rpx 30rpx 20rpx; 
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  background: #3c3334;
+  color: #fff;
+  font-weight: 900;
+}
+.navItem{
+  font-size: 34rpx;
+}
+.navItem-active{
+  color: #f2bb00;
+}
+
+.imagesLoop{
+  padding: 30rpx;
+}
+.imagesLoop swiper-item{
+  border-radius: 20rpx;
+}
+.imagesLoop image{
+  width: 690rpx;
+  height: 380rpx;
+  border-radius: 0rpx 0rpx 20rpx 20rpx;
+}

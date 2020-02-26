@@ -1,0 +1,3 @@
+<view class="recommendLabels" wx:for="{{labels}}" wx:key="*this">
+    <view wx:for="{{item}}" wx:key="*this">{{item}}</view>
+</view>

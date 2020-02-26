@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "navAndLoopImage": "/component/navAndLoopImage/navAndLoopImage",
+    "girlsAndBoys": "/component/girlsAndBoys/girlsAndBoys",
+    "typeView": "/component/typeView/typeView",
+    "cutoverMore": "/component/cutoverMore/cutoverMore",
+    "recommend": "/component/recommend/recommend",
+    "labelView": "/component/labelView/labelView",
+    "currentLabels": "/component/currentLabels/currentLabels"
+  }
+}
